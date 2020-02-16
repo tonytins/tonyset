@@ -1,7 +1,12 @@
-*.deb
+# Created by https://www.gitignore.io/api/linux,macos,backup,windows,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=linux,macos,backup,windows,visualstudiocode
 
-# Created by https://www.gitignore.io/api/linux,macos,windows,notepadpp,visualstudiocode
-# Edit at https://www.gitignore.io/?templates=linux,macos,windows,notepadpp,visualstudiocode
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
 
 ### Linux ###
 *~
@@ -46,10 +51,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### NotepadPP ###
-# Notepad++ backups #
-*.bak
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -87,4 +88,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,windows,notepadpp,visualstudiocode
+# End of https://www.gitignore.io/api/linux,macos,backup,windows,visualstudiocode
