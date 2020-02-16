@@ -23,3 +23,7 @@ fi
 if [ ! -f "$HOME/.nanorc" ]; then
     cp /user/.nanorc $HOME/.nanorc
 fi
+
+if [ ! -f "$HOME/.gitignore" ]; then
+    cp .gitignore $HOME/.gitignore_global
+fi
