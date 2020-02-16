@@ -1,0 +1,7 @@
+apt-transport-https
+avahi-daemon
+terminator
+ruby
+libunwind-dev
+git
+git-cola
