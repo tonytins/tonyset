@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 sudo launchctl config user path "/usr/local/bin:$PATH"

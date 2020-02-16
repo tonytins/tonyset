@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 ## Essentials
 sudo apt update -y && sudo apt upgrade -y
