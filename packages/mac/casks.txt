@@ -1,6 +1,9 @@
 cakebrew
-gog-galaxy
 iterm2
 dotnet-sdk
 visual-studio-code
 brave-browser
+mark-text
+libreoffice
+telegram
+vlc
