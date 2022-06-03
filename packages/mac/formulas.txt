@@ -1,0 +1,7 @@
+cask
+wget
+git
+openjdk
+python
+mono-libgdiplus
+swift-protobuf
